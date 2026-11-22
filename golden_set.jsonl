@@ -1,0 +1,400 @@
+{"photo_id": 252402705, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 254946597, "boxes": [{"left": 0.27876, "top": 0.1624, "width": 0.44131, "height": 0.65863}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 254989757, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 254996438, "boxes": [{"left": 0.18721, "top": 0.27208, "width": 0.49529999999999996, "height": 0.56375}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 254997472, "boxes": [{"left": 0.10459, "top": 0.20214, "width": 0.52041, "height": 0.61582}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 255141941, "boxes": [{"left": 0.14613, "top": 0.07083, "width": 0.70657, "height": 0.8206500000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 255278608, "boxes": [{"left": 0.1459, "top": 0.22116, "width": 0.74062, "height": 0.53218}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 256807598, "boxes": [{"left": 0.32101, "top": 0.22589, "width": 0.55634, "height": 0.6165999999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 257862060, "boxes": [{"left": 0.26702, "top": 0.15933, "width": 0.28404, "height": 0.45452000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 287241313, "boxes": [{"left": 0.2655, "top": 0.15184, "width": 0.49247, "height": 0.56283}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 287655652, "boxes": [{"left": 0.28697, "top": 0.38782, "width": 0.41548999999999997, "height": 0.37333999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 302091328, "boxes": [{"left": 0.15807, "top": 0.05015, "width": 0.66137, "height": 0.89595}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 310248481, "boxes": [{"left": 0.20105, "top": 0.26111, "width": 0.24801, "height": 0.22903999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 320093262, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 334123448, "boxes": [{"left": 0.23851, "top": 0.09307, "width": 0.64367, "height": 0.7254200000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 347003003, "boxes": [{"left": 0.32813, "top": 0.02156, "width": 0.5144200000000001, "height": 0.70027}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 347099491, "boxes": [{"left": 0.35932, "top": 0.32888, "width": 0.26636000000000004, "height": 0.38326}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 347211451, "boxes": [{"left": 0.37503, "top": 0.42868, "width": 0.24777000000000005, "height": 0.34525}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 353137674, "boxes": [{"left": 0.28639, "top": 0.07757, "width": 0.5022800000000001, "height": 0.78374}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 353331885, "boxes": [{"left": 0.35699, "top": 0.12823, "width": 0.47161000000000003, "height": 0.6230499999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 353907140, "boxes": [{"left": 0.35648, "top": 0.06074, "width": 0.30952999999999997, "height": 0.70546}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356441769, "boxes": [{"left": 0.34276, "top": 0.31795, "width": 0.38462, "height": 0.40880999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356442867, "boxes": [{"left": 0.14741, "top": 0.20569, "width": 0.76886, "height": 0.77225}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356442995, "boxes": [{"left": 0.37245, "top": 0.48581, "width": 0.40136, "height": 0.27041}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356451802, "boxes": [{"left": 0.15642, "top": 0.28638, "width": 0.74044, "height": 0.4689499999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356853563, "boxes": [{"left": 0.07661605971399905, "top": 0.13012284890082562, "width": 0.7975777020694825, "height": 0.7409168904804536}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 356856592, "boxes": [{"left": 0.15727, "top": 0.17411, "width": 0.72, "height": 0.63806}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356856636, "boxes": [{"left": 0.18173, "top": 0.08959, "width": 0.5718300000000001, "height": 0.81437}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356856684, "boxes": [{"left": 0.08944, "top": 0.0874, "width": 0.7931, "height": 0.8173699999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 356868405, "boxes": [{"left": 0.09858, "top": 0.07788, "width": 0.7317, "height": 0.77268}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 361470590, "boxes": [{"left": 0.38594, "top": 0.39162, "width": 0.36874999999999997, "height": 0.2640799999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 362546588, "boxes": [{"left": 0.15241, "top": 0.00622, "width": 0.6447400000000001, "height": 0.76081}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 362550042, "boxes": [{"left": 0.27785, "top": 0.08235, "width": 0.5569, "height": 0.7515}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 370983029, "boxes": [{"left": 0.11386, "top": 0.131, "width": 0.75895, "height": 0.78329}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 370984931, "boxes": [{"left": 0.01245, "top": 0.02099, "width": 0.9501900000000001, "height": 0.9093300000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 372799356, "boxes": [{"left": 0.09067, "top": 0.2363, "width": 0.82746, "height": 0.47183}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 372802684, "boxes": [{"left": 0.04313, "top": 0.15884, "width": 0.9155, "height": 0.60915}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 372812078, "boxes": [{"left": 0.05995, "top": 0.20974, "width": 0.66326, "height": 0.5918399999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 372816146, "boxes": [{"left": 0.22917, "top": 0.2382, "width": 0.6786, "height": 0.5773900000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 374996127, "boxes": [{"left": 0.24474, "top": 0.35893, "width": 0.38947000000000004, "height": 0.22013999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 378919531, "boxes": [{"left": 0.42568, "top": 0.41246, "width": 0.10232999999999998, "height": 0.17392999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 379786636, "boxes": [{"left": 0.10717, "top": 0.44725, "width": 0.41297000000000006, "height": 0.1688}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 379967357, "boxes": [{"left": 0.38649, "top": 0.32679, "width": 0.21396000000000004, "height": 0.28032999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 379967518, "boxes": [{"left": 0.32276, "top": 0.23478, "width": 0.28830000000000006, "height": 0.29011}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 379967607, "boxes": [{"left": 0.3997, "top": 0.39233, "width": 0.33905, "height": 0.41487999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 380670348, "boxes": [{"left": 0.53798, "top": 0.46426, "width": 0.13393, "height": 0.15774}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 381204034, "boxes": [{"left": 0.46868450598802397, "top": 0.5672571523619427, "width": 0.02696482035928144, "height": 0.042664670658682624}, {"left": 0.6158635853293413, "top": 0.744918496340652, "width": 0.026010479041916224, "height": 0.044028609447771205}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 381308352, "boxes": [{"left": 0.37765, "top": 0.2759, "width": 0.25661000000000006, "height": 0.36332000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 387181093, "boxes": [{"left": 0.3299512583308465, "top": 0.38982766338406444, "width": 0.24374979276501207, "height": 0.19195762458967475}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 387189942, "boxes": [{"left": 0.2902, "top": 0.1876, "width": 0.58707, "height": 0.59823}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 388665805, "boxes": [{"left": 0.07966, "top": 0.06432, "width": 0.8627, "height": 0.8119599999999999}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 390186208, "boxes": [{"left": 0.12692, "top": 0.17893, "width": 0.5846199999999999, "height": 0.50256}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 390857184, "boxes": [{"left": 0.30942, "top": 0.25113, "width": 0.36232000000000003, "height": 0.45135}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 390858883, "boxes": [{"left": 0.19768, "top": 0.3068, "width": 0.4234800000000001, "height": 0.47454}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 390866721, "boxes": [{"left": 0.22605, "top": 0.27802, "width": 0.5269400000000001, "height": 0.5538000000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 392290753, "boxes": [{"left": 0.13178798652694612, "top": 0.28034499329741763, "width": 0.522094872754491, "height": 0.5827389533854364}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 412057067, "boxes": [{"left": 0.20535, "top": 0.12816, "width": 0.59153, "height": 0.8428500000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 412064414, "boxes": [{"left": 0.41667, "top": 0.14871, "width": 0.40613, "height": 0.62835}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 412069448, "boxes": [{"left": 0.28571, "top": 0.18462, "width": 0.51117, "height": 0.68455}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 413723185, "boxes": [{"left": 0.00089, "top": 0.18763, "width": 0.82269, "height": 0.5829500000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 414105001, "boxes": [{"left": 0.40114, "top": 0.42349, "width": 0.41177, "height": 0.32409000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 415457722, "boxes": [{"left": 0.44661, "top": 0.37377, "width": 0.17287999999999998, "height": 0.14294}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 419163274, "boxes": [{"left": 0.44423, "top": 0.05367, "width": 0.43304, "height": 0.62799}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 427701615, "boxes": [{"left": 0.32551, "top": 0.29516, "width": 0.30649, "height": 0.50393}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 429598803, "boxes": [{"left": 0.49913, "top": 0.33823, "width": 0.24042000000000002, "height": 0.48013}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 429727555, "boxes": [{"left": 0.4875131137893094, "top": 0.2630093381246658, "width": 0.3349453698728282, "height": 0.2896994640836577}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 429977167, "boxes": [{"left": 0.33001, "top": 0.05506, "width": 0.40979, "height": 0.60901}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 431256085, "boxes": [{"left": 0.35827, "top": 0.37535, "width": 0.2722800000000001, "height": 0.19385000000000002}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 442741310, "boxes": [{"left": 0.26603, "top": 0.28265, "width": 0.41794, "height": 0.3987}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 444560606, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 446116471, "boxes": [{"left": 0.27806, "top": 0.40199, "width": 0.29252, "height": 0.34195000000000003}, {"left": 0.6216, "top": 0.25399, "width": 0.24829999999999997, "height": 0.42360000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 446119469, "boxes": [{"left": 0.16799, "top": 0.25077, "width": 0.42857, "height": 0.32092000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 446202481, "boxes": [{"left": 0.24213, "top": 0.31836, "width": 0.55233, "height": 0.3589}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 446283416, "boxes": [{"left": 0.14402, "top": 0.22324, "width": 0.6575599999999999, "height": 0.43237000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 446813358, "boxes": [{"left": 0.30555, "top": 0.32446, "width": 0.26786, "height": 0.37808}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 446814007, "boxes": [{"left": 0.44863326802873404, "top": 0.42568668167066637, "width": 0.2000279876854184, "height": 0.1786802282929013}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 446846946, "boxes": [{"left": 0.5593188622754491, "top": 0.48078218562874253, "width": 0.07732971556886226, "height": 0.14444236526946108}, {"left": 0.35448633982035926, "top": 0.36471432135728543, "width": 0.08011788922155688, "height": 0.12768837325349303}, {"left": 0.44155595059880237, "top": 0.32112025948103795, "width": 0.06968562874251505, "height": 0.10368013972055884}, {"left": 0.46295377994011977, "top": 0.10866392215568862, "width": 0.06463791167664668, "height": 0.11914920159680639}, {"left": 0.2629912050898204, "top": 0.09160429141716567, "width": 0.07552395209580837, "height": 0.09776072854291418}, {"left": 0.32063997005988026, "top": 0.502126996007984, "width": 0.09040980538922155, "height": 0.1181012974051896}, {"left": 0.44712761976047904, "top": 0.4802395209580838, "width": 0.0734562125748503, "height": 0.07183757485029946}, {"left": 0.4629444236526946, "top": 0.7191679141716567, "width": 0.1291120883233533, "height": 0.1241828842315369}, {"left": 0.6227732035928144, "top": 0.7007796906187624, "width": 0.13909524700598797, "height": 0.2714633233532935}, {"left": 0.5472305389221557, "top": 0.19861526946107785, "width": 0.0921734655688623, "height": 0.16343562874251497}, {"left": 0.5137911676646707, "top": 0.3970059880239521, "width": 0.0709627619760479, "height": 0.08930264471057886}, {"left": 0.5833317739520958, "top": 0.41162674650698605, "width": 0.05766279940119767, "height": 0.06187624750498999}, {"left": 0.6263940868263473, "top": 0.47913547904191617, "width": 0.06769741766467063, "height": 0.10823353293413168}, {"left": 0.4618169910179641, "top": 0.5677083333333334, "width": 0.07123409431137723, "height": 0.09868388223552893}, {"left": 0.4015344311377245, "top": 0.5423403193612775, "width": 0.06846931137724555, "height": 0.10273203592814373}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 447781697, "boxes": [{"left": 0.03735, "top": 0.0359, "width": 0.93135, "height": 0.9607399999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 447863830, "boxes": [{"left": 0.12165, "top": 0.231, "width": 0.63601, "height": 0.40869}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 447908746, "boxes": [{"left": 0.01913, "top": 0.06744, "width": 0.95919, "height": 0.6020399999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 447916295, "boxes": [{"left": 0.20594, "top": 0.13332, "width": 0.55172, "height": 0.6331600000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 448221784, "boxes": [{"left": 0.43116, "top": 0.39306, "width": 0.12926000000000004, "height": 0.18609000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450382533, "boxes": [{"left": 0.11465, "top": 0.00906, "width": 0.72941, "height": 0.9265300000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450582220, "boxes": [{"left": 0.06694, "top": 0.05354, "width": 0.82748, "height": 0.91679}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450582245, "boxes": [{"left": 0.02314, "top": 0.00904, "width": 0.95734, "height": 0.9603999999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450733449, "boxes": [{"left": 0.38602, "top": 0.31785, "width": 0.17624, "height": 0.34227}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450864258, "boxes": [{"left": 0.012103930867933313, "top": 0.07081219536456779, "width": 0.9469289185021386, "height": 0.9228650651546801}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 450864276, "boxes": [{"left": 0.13672, "top": 0.02199, "width": 0.79687, "height": 0.94393}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450864744, "boxes": [{"left": 0.03269, "top": 0.15441, "width": 0.83077, "height": 0.5384599999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 450867669, "boxes": [{"left": 0.03063, "top": 0.03124, "width": 0.81423, "height": 0.88981}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 451079200, "boxes": [{"left": 0.00654, "top": 0.05157, "width": 0.9617100000000001, "height": 0.90304}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 451985549, "boxes": [{"left": 0.3268, "top": 0.21827, "width": 0.35557000000000005, "height": 0.53701}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 452695473, "boxes": [{"left": 0.3346224403787991, "top": 0.41684696110613745, "width": 0.10275670583568847, "height": 0.07346687555953452}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 452838149, "boxes": [{"left": 0.0496, "top": 0.16399, "width": 0.84326, "height": 0.68838}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 453696268, "boxes": [{"left": 0.37441, "top": 0.437, "width": 0.34273, "height": 0.16550000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 454022353, "boxes": [{"left": 0.33389315119760477, "top": 0.07911052894211577, "width": 0.40638098802395217, "height": 0.7174214071856287}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 454481125, "boxes": [{"left": 0.47409, "top": 0.41222, "width": 0.16813, "height": 0.07592000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 454484026, "boxes": [{"left": 0.22512, "top": 0.27669, "width": 0.48757000000000006, "height": 0.46950000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 455128684, "boxes": [{"left": 0.20297997754491018, "top": 0.28405688622754494, "width": 0.5255847679640718, "height": 0.45148453093812374}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 455890470, "boxes": [{"left": 0.14095247005988024, "top": 0.0016841317365269462, "width": 0.7247052769461079, "height": 0.868375748502994}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 455976187, "boxes": [{"left": 0.0017, "top": 0.00566, "width": 0.9591799999999999, "height": 0.92347}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 457119305, "boxes": [{"left": 0.2977386518120627, "top": 0.36172659902516663, "width": 0.20287476375211377, "height": 0.18150676415000494}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 457539262, "boxes": [{"left": 0.27419, "top": 0.30378, "width": 0.25222000000000006, "height": 0.33678}, {"left": 0.53742, "top": 0.32727, "width": 0.12995999999999996, "height": 0.26042000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 457539272, "boxes": [{"left": 0.36561, "top": 0.31033, "width": 0.2277, "height": 0.29938}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 457552938, "boxes": [{"left": 0.22408, "top": 0.41405, "width": 0.33485000000000004, "height": 0.19279000000000007}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 458235293, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 459838013, "boxes": [{"left": 0.30159, "top": 0.18028, "width": 0.4867699999999999, "height": 0.53968}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 459838357, "boxes": [{"left": 0.38161, "top": 0.23358, "width": 0.27513999999999994, "height": 0.40917000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 462332500, "boxes": [{"left": 0.21735836767058891, "top": 0.1526037003879439, "width": 0.6072950738427991, "height": 0.655625186511489}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 462332509, "boxes": [{"left": 0.10729817975121944, "top": 0.20217223714314136, "width": 0.6311253288212666, "height": 0.6340768924699095}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 462349048, "boxes": [{"left": 0.26425, "top": 0.20538, "width": 0.5669500000000001, "height": 0.5714899999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 463077611, "boxes": [{"left": 0.2873, "top": 0.23132, "width": 0.58691, "height": 0.50414}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 464309707, "boxes": [{"left": 0.24606, "top": 0.2589, "width": 0.37897, "height": 0.41964999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 465783300, "boxes": [{"left": 0.07478, "top": 0.03129, "width": 0.67857, "height": 0.84514}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 471166469, "boxes": [{"left": 0.27819, "top": 0.34809, "width": 0.43970000000000004, "height": 0.26890000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 474132906, "boxes": [{"left": 0.22421, "top": 0.10973, "width": 0.58201, "height": 0.77602}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 479858830, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 484324752, "boxes": [{"left": 0.13294, "top": 0.02049, "width": 0.66231, "height": 0.9755199999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 484349169, "boxes": [{"left": 0.37264, "top": 0.42644, "width": 0.38692999999999994, "height": 0.23266000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 487067307, "boxes": [{"left": 0.22103, "top": 0.22943, "width": 0.5596699999999999, "height": 0.63477}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 489427099, "boxes": [{"left": 0.08733, "top": 0.2708, "width": 0.65477, "height": 0.5148999999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 491745967, "boxes": [{"left": 0.3464, "top": 0.34565, "width": 0.21581, "height": 0.1361}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 492157387, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 498271339, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 501130964, "boxes": [{"left": 0.44349, "top": 0.28153, "width": 0.19922999999999996, "height": 0.33715999999999996}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 501523022, "boxes": [{"left": 0.25347, "top": 0.11932, "width": 0.42149000000000003, "height": 0.72433}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 501533178, "boxes": [{"left": 0.14285, "top": 0.16383, "width": 0.65477, "height": 0.7204499999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 501533268, "boxes": [{"left": 0.24941, "top": 0.12014, "width": 0.52582, "height": 0.72203}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 503509401, "boxes": [{"left": 0.19531, "top": 0.4308, "width": 0.5750000000000001, "height": 0.38772999999999996}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 504120125, "boxes": [{"left": 0.25469, "top": 0.2856, "width": 0.47888000000000003, "height": 0.47183}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 504754907, "boxes": [{"left": 0.28214, "top": 0.46625, "width": 0.28857000000000005, "height": 0.51528}, {"left": 0.21071, "top": 0.12038, "width": 0.35142999999999996, "height": 0.3494}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 508092751, "boxes": [{"left": 0.45879, "top": 0.54833, "width": 0.10681000000000002, "height": 0.05062}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 508101837, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 508120802, "boxes": [{"left": 0.22010013594615205, "top": 0.3980963394011738, "width": 0.48076859312311415, "height": 0.3274582214264398}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 509010930, "boxes": [{"left": 0.31542, "top": 0.2912, "width": 0.28441, "height": 0.41498}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 510578186, "boxes": [{"left": 0.45242327844311375, "top": 0.35333801333801335, "width": 0.17487836826347308, "height": 0.2833274833274833}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 510578912, "boxes": [{"left": 0.46854, "top": 0.36802, "width": 0.16665999999999997, "height": 0.23477000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 512006242, "boxes": [{"left": 0.34993, "top": 0.37014, "width": 0.27897, "height": 0.31328}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 512013216, "boxes": [{"left": 0.20305, "top": 0.4194, "width": 0.44600999999999996, "height": 0.28520999999999996}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 512697007, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 513733526, "boxes": [{"left": 0.19706, "top": 0.23314, "width": 0.53647, "height": 0.54662}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 514078342, "boxes": [{"left": 0.3009300706256839, "top": 0.2878369640903213, "width": 0.5126827812593255, "height": 0.4515070128319905}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 514680151, "boxes": [{"left": 0.52386, "top": 0.19682, "width": 0.31611, "height": 0.36365000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 514682204, "boxes": [{"left": 0.19447, "top": 0.20835, "width": 0.52183, "height": 0.51801}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 520504874, "boxes": [{"left": 0.37783027694610777, "top": 0.28366276662628614, "width": 0.37186096556886233, "height": 0.5556790823915476}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 522022935, "boxes": [{"left": 0.29822698353293414, "top": 0.055969311377245506, "width": 0.389095247005988, "height": 0.7154129241516967}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 523322775, "boxes": [{"left": 0.004, "top": 0.06583, "width": 0.74207, "height": 0.43921000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 523341121, "boxes": [{"left": 0.28286, "top": 0.19405, "width": 0.52583, "height": 0.30281}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 523378217, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 523901639, "boxes": [{"left": 1e-05, "top": 0.24415, "width": 0.7143, "height": 0.47025000000000006}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 524769284, "boxes": [{"left": 0.10446, "top": 0.04616, "width": 0.8216, "height": 0.7112700000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 525422018, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 526552729, "boxes": [{"left": 0.31162, "top": 0.22895, "width": 0.41976, "height": 0.35566}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 527414410, "boxes": [{"left": 0.3876, "top": 0.26441, "width": 0.44886, "height": 0.23935}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 527932484, "boxes": [{"left": 0.16058, "top": 0.06202, "width": 0.72692, "height": 0.77337}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 527991781, "boxes": [{"left": 0.01871, "top": 0.12867, "width": 0.93197, "height": 0.7346900000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 528142083, "boxes": [{"left": 0.04592, "top": 0.21995, "width": 0.86394, "height": 0.70408}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 533009692, "boxes": [{"left": 0.33003, "top": 0.16617, "width": 0.47883000000000003, "height": 0.5643699999999999}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 533062519, "boxes": [{"left": 0.07665, "top": 0.04635, "width": 0.84906, "height": 0.83085}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 534961991, "boxes": [{"left": 0.32557, "top": 0.34565, "width": 0.34256999999999993, "height": 0.34526}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 535280204, "boxes": [{"left": 0.05158, "top": 0.08348, "width": 0.89485, "height": 0.80112}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 536349259, "boxes": [{"left": 0.36775, "top": 0.26911, "width": 0.23997000000000002, "height": 0.39638}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 536349328, "boxes": [{"left": 0.22032, "top": 0.11927, "width": 0.5098900000000001, "height": 0.67106}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 536349582, "boxes": [{"left": 0.36427, "top": 0.29681, "width": 0.25251999999999997, "height": 0.35641999999999996}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 536461236, "boxes": [{"left": 0.36992, "top": 0.27406, "width": 0.19177999999999995, "height": 0.20798}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 539082640, "boxes": [{"left": 0.20477, "top": 0.36488, "width": 0.55557, "height": 0.35974000000000006}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 540081720, "boxes": [{"left": 0.00701, "top": 0.35555, "width": 0.98721, "height": 0.29932}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 540084256, "boxes": [{"left": 0.16003644484971122, "top": 0.1530080545406435, "width": 0.654129623737211, "height": 0.44539818311135027}, {"left": 0.0664997002111674, "top": 0.5326828268005819, "width": 0.8324783417557561, "height": 0.3828125000000001}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 540084347, "boxes": [{"left": 0.02839, "top": 0.12335, "width": 0.6077, "height": 0.8762300000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 541817834, "boxes": [{"left": 0.29695, "top": 0.35602, "width": 0.42723000000000005, "height": 0.28169}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 545621790, "boxes": [{"left": 0.39085, "top": 0.35954, "width": 0.24413, "height": 0.16548999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 547113381, "boxes": [{"left": 0.34624, "top": 0.45461, "width": 0.38968, "height": 0.35562999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 550563942, "boxes": [{"left": 0.3486, "top": 0.41912, "width": 0.31775999999999993, "height": 0.21259}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 551865151, "boxes": [{"left": 0.25059, "top": 0.17654, "width": 0.5164300000000001, "height": 0.55312}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 552712886, "boxes": [{"left": 0.12826, "top": 0.23609, "width": 0.7217399999999999, "height": 0.46995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 552882357, "boxes": [{"left": 0.07313, "top": 0.09239, "width": 0.83673, "height": 0.80103}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 552882819, "boxes": [{"left": 0.25452, "top": 0.16009, "width": 0.6054299999999999, "height": 0.36022000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 553562352, "boxes": [{"left": 0.26655, "top": 0.19636, "width": 0.48232, "height": 0.631}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 558394415, "boxes": [{"left": 0.12211826347305389, "top": 0.40071107784431137, "width": 0.7050009356287426, "height": 0.35030563872255494}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 562456696, "boxes": [{"left": 0.22029079213501773, "top": 0.351182482840943, "width": 0.441932756391127, "height": 0.19810006963095594}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 563339877, "boxes": [{"left": 0.2117, "top": 0.13126, "width": 0.60363, "height": 0.75499}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 567181101, "boxes": [{"left": 0.44606, "top": 0.31429, "width": 0.21214, "height": 0.13463999999999998}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 568025149, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 568167097, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 570969513, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 573427929, "boxes": [{"left": 0.28601744089658143, "top": 0.13984631453297522, "width": 0.3715806226996916, "height": 0.7274321098179648}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 574485636, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 575294027, "boxes": [{"left": 0.51437, "top": 0.3224, "width": 0.26437, "height": 0.36780999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 577752373, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 579077551, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 584052758, "boxes": [{"left": 0.34842, "top": 0.11351, "width": 0.51149, "height": 0.67433}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 588636629, "boxes": [{"left": 0.36765, "top": 0.23007, "width": 0.41411000000000003, "height": 0.6738}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 589136012, "boxes": [{"left": 0.3803259391889652, "top": 0.3959576743260718, "width": 0.21782055107927978, "height": 0.19591166815875855}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 589475258, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 590789442, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 592219332, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 594868091, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 595820398, "boxes": [{"left": 0.23774840292667831, "top": 0.4434372824032627, "width": 0.4289993147505471, "height": 0.17584303193076695}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 595830041, "boxes": [{"left": 0.14923, "top": 0.25056, "width": 0.46939, "height": 0.4949}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 600581504, "boxes": [{"left": 0.1607, "top": 0.1458, "width": 0.5468999999999999, "height": 0.6517999999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 600618433, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 600980267, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 601335496, "boxes": [{"left": 0.2738, "top": 0.40503, "width": 0.40254000000000006, "height": 0.18359000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 601573868, "boxes": [{"left": 0.04981755239520958, "top": 0.2977299185098952, "width": 0.8977170658682635, "height": 0.5981300931315483}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 601809276, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 601923954, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 602054567, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 602365609, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 602983491, "boxes": [{"left": 0.3317634205397744, "top": 0.27203660644343036, "width": 0.3259242307919447, "height": 0.5126953732141304}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 603572171, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 603628348, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 603787617, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 603816885, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 604047975, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 604318605, "boxes": [{"left": 0.19777, "top": 0.12052, "width": 0.52113, "height": 0.73612}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 604322027, "boxes": [{"left": 0.01403, "top": 0.15928, "width": 0.97449, "height": 0.6224500000000001}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 607021063, "boxes": [{"left": 0.5054549246739078, "top": 0.12171118074206705, "width": 0.4093600089845818, "height": 0.7335310355117874}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 607354076, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 608254349, "boxes": [{"left": 0.04148, "top": 0.10121, "width": 0.88542, "height": 0.81303}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 608474164, "boxes": [{"left": 0.08659, "top": 0.1665, "width": 0.7395799999999999, "height": 0.66645}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 609852767, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 614062787, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 614372138, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 615397322, "boxes": [{"left": 0.24143, "top": 0.23306, "width": 0.45182, "height": 0.55701}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 615397473, "boxes": [{"left": 0.4077937874251497, "top": 0.25448336064444, "width": 0.2908401946107785, "height": 0.5834035254299585}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 615476276, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 615478382, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 616889747, "boxes": [{"left": 0.12499, "top": 0.25896, "width": 0.75398, "height": 0.5656399999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 617321670, "boxes": [{"left": 0.06423, "top": 0.14902, "width": 0.88142, "height": 0.63477}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 617674372, "boxes": [{"left": 3e-05, "top": 0.05073, "width": 0.97804, "height": 0.8995299999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 617941758, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 618178622, "boxes": [{"left": 0.32353, "top": 0.21465, "width": 0.41096, "height": 0.32119}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 618647969, "boxes": [{"left": 0.10842, "top": 0.01076, "width": 0.8010200000000001, "height": 0.92347}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 618711175, "boxes": [{"left": 0.39350205838323354, "top": 0.27391467065868264, "width": 0.08997473802395206, "height": 0.12267340319361275}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 618910863, "boxes": [{"left": 0.38127, "top": 0.3665, "width": 0.20577, "height": 0.11215000000000003}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 619191472, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 619422170, "boxes": [{"left": 0.09328, "top": 0.28887, "width": 0.8174699999999999, "height": 0.5061}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 619504464, "boxes": [{"left": 0.21185, "top": 0.23637, "width": 0.62442, "height": 0.65158}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 619730252, "boxes": [{"left": 0.2773579624965015, "top": 0.10978824465637939, "width": 0.5091146562179307, "height": 0.7437859816221728}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 619834767, "boxes": [{"left": 0.31436190119760477, "top": 0.14631182782298768, "width": 0.440503368263473, "height": 0.7385628652966614}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 620418537, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 620421123, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 621042928, "boxes": [{"left": 0.32939, "top": 0.14001, "width": 0.44842, "height": 0.7085400000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 621230949, "boxes": [{"left": 0.3475938199632035, "top": 0.33798990351138963, "width": 0.338405781038725, "height": 0.22133940117377898}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 621352056, "boxes": [{"left": 0.3339170527342451, "top": 0.3818574057495275, "width": 0.2578635869926629, "height": 0.18303615836068837}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 621601322, "boxes": [{"left": 0.04183, "top": 0.20317, "width": 0.8964599999999999, "height": 0.62119}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 622950669, "boxes": [{"left": 0.30133, "top": 0.22643, "width": 0.44927000000000006, "height": 0.55358}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 623075186, "boxes": [{"left": 0.33187797369157573, "top": 0.1842072541437151, "width": 0.554380072767982, "height": 0.5177498974174055}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 623961011, "boxes": [{"left": 0.41155, "top": 0.3509, "width": 0.19556999999999997, "height": 0.17027000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 624231005, "boxes": [{"left": 0.0086, "top": 0.02862, "width": 0.96561, "height": 0.9565400000000001}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 624960945, "boxes": [{"left": 0.09572, "top": 0.25225, "width": 0.7841899999999999, "height": 0.3266}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 625119934, "boxes": [{"left": 0.4072371184155264, "top": 0.3596874067442554, "width": 0.21616304516014945, "height": 0.13857181935740576}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 625460622, "boxes": [{"left": 0.10915, "top": 0.00902, "width": 0.63691, "height": 0.8097599999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 625784180, "boxes": [{"left": 0.10119, "top": 0.24746, "width": 0.86508, "height": 0.6177}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 625784878, "boxes": [{"left": 0.40278, "top": 0.11372, "width": 0.51323, "height": 0.6706399999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 626809458, "boxes": [{"left": 0.42606, "top": 0.42996, "width": 0.24412999999999996, "height": 0.19013999999999998}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 630108986, "boxes": [{"left": 0.005049951970665363, "top": 0, "width": 0.8585210773549634, "height": 0.7454327826509533}, {"left": 0, "top": 0.30948178980228935, "width": 0.9974431586977263, "height": 0.6905182101977106}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 630141057, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 630141605, "boxes": [{"left": 0.39075, "top": 0.42577, "width": 0.13962000000000002, "height": 0.18857999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 630141795, "boxes": [{"left": 0.57697, "top": 0.49101, "width": 0.12258999999999998, "height": 0.09437000000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 630148319, "boxes": [{"left": 0.36407185628742517, "top": 0.5759917664670658, "width": 0.15009356287425152, "height": 0.19629491017964074}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 630187054, "boxes": [{"left": 0.43585, "top": 0.38839, "width": 0.13755999999999996, "height": 0.17284}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 630294004, "boxes": [{"left": 0.21433, "top": 0.46693, "width": 0.49678999999999995, "height": 0.34684999999999994}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 630465815, "boxes": [{"left": 0.34269, "top": 0.03633, "width": 0.29932, "height": 0.77668}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 631185878, "boxes": [{"left": 0.1408, "top": 0.28126, "width": 0.6436799999999999, "height": 0.5511999999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 632290814, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 632290844, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 632411132, "boxes": [{"left": 0.31548, "top": 0.22568, "width": 0.40815999999999997, "height": 0.45421999999999996}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 632619622, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 632737516, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 632785490, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 632817533, "boxes": [{"left": 0.12882, "top": 0.08182, "width": 0.52193, "height": 0.80405}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 632820579, "boxes": [{"left": 0.42816, "top": 0.09818, "width": 0.24904000000000004, "height": 0.46488}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 633414225, "boxes": [{"left": 0.29598, "top": 0.13905, "width": 0.31416999999999995, "height": 0.51085}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 633414396, "boxes": [{"left": 0.31705, "top": 0.06697, "width": 0.44061, "height": 0.5925900000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 633414981, "boxes": [{"left": 0.21627, "top": 0.10659, "width": 0.67989, "height": 0.6067}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 633772732, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 633792793, "boxes": [{"left": 0.2851936751497006, "top": 0.2715154544697159, "width": 0.48126403443113774, "height": 0.5779596767474798}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 633841032, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 635402319, "boxes": [{"left": 0.39751, "top": 0.32807, "width": 0.17624, "height": 0.31162}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 636262149, "boxes": [{"left": 0.37741968746777654, "top": 0.37020665472993136, "width": 0.25160531323528035, "height": 0.415000497363971}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 637404128, "boxes": [{"left": 0.4484399350111078, "top": 0.47358375609270864, "width": 0.25502337610663484, "height": 0.14026285685864914}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 637754525, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 638983924, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 644218020, "boxes": [{"left": 0.10575, "top": 0.24415, "width": 0.78858, "height": 0.51787}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 646945251, "boxes": [{"left": 0.35941, "top": 0.15602, "width": 0.29177, "height": 0.61039}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 649939715, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 650556161, "boxes": [{"left": 0.06034, "top": 0.11298, "width": 0.8888900000000001, "height": 0.6336700000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 651017591, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 652875043, "boxes": [{"left": 0.34154, "top": 0.04163, "width": 0.65404, "height": 0.7142999999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 653309024, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 653319756, "boxes": [{"left": 0.15401, "top": 0.16365, "width": 0.66296, "height": 0.57443}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 653888048, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 654033976, "boxes": [{"left": 0.4335890718562874, "top": 0.47103496555948643, "width": 0.2080510853293413, "height": 0.28114335004312885}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 654244445, "boxes": [{"left": 0.3665, "top": 0.21603, "width": 0.32313, "height": 0.42871}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 655645372, "boxes": [{"left": 0.33235, "top": 0.39902, "width": 0.34353000000000006, "height": 0.31749}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 656455669, "boxes": [{"left": 0.11854, "top": 0.30711, "width": 0.71831, "height": 0.46831}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 656497586, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 657894289, "boxes": [{"left": 0.07935, "top": 0.19018, "width": 0.84983, "height": 0.64894}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 658931247, "boxes": [{"left": 0.31151, "top": 0.23358, "width": 0.28836, "height": 0.39858000000000005}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 659157811, "boxes": [{"left": 0.30093, "top": 0.14187, "width": 0.42328000000000005, "height": 0.47266}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 660944783, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 660951557, "boxes": [{"left": 0.27008, "top": 0.29772, "width": 0.48439, "height": 0.44049000000000005}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 660951771, "boxes": [{"left": 0.35076, "top": 0.34591, "width": 0.26077, "height": 0.30760000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 662324163, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 662553521, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 663087491, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 664658122, "boxes": [{"left": 0.15996, "top": 0.13404, "width": 0.71265, "height": 0.6441399999999999}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 668684093, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 668770896, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 669581331, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 669612629, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 670447242, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 670541530, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 672028642, "boxes": [{"left": 0.19965, "top": 0.10656, "width": 0.51991, "height": 0.72639}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 674740838, "boxes": [{"left": 0.15051, "top": 0.25574, "width": 0.6632699999999999, "height": 0.6634800000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 677706379, "boxes": [{"left": 0.35122, "top": 0.28576, "width": 0.28571, "height": 0.32152000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 679243287, "boxes": [{"left": 0.25766, "top": 0.29252, "width": 0.44445, "height": 0.46009999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 679325250, "boxes": [{"left": 0.16202, "top": 0.19091, "width": 0.42346999999999996, "height": 0.59034}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 679326408, "boxes": [{"left": 0.36139, "top": 0.00112, "width": 0.53402, "height": 0.84183}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 684871644, "boxes": [{"left": 0.09639, "top": 0.06585, "width": 0.6502600000000001, "height": 0.8877700000000001}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 684871955, "boxes": [{"left": 0.0308, "top": 0.07771, "width": 0.9347799999999999, "height": 0.8833599999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 688127601, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 688670493, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 688759361, "boxes": [{"left": 0.30442, "top": 0.29137, "width": 0.38776, "height": 0.36734999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 690845108, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 690845144, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 692256518, "boxes": [{"left": 0.29088, "top": 0.36479, "width": 0.40252, "height": 0.31487000000000004}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 694514187, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 695186124, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 695733218, "boxes": [{"left": 0.1148, "top": 0.04139, "width": 0.45918000000000003, "height": 0.5971299999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 698910061, "boxes": [{"left": 0.13554, "top": 0.14479, "width": 0.61044, "height": 0.57762}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 699670640, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 699689540, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 699690061, "boxes": [{"left": 0.37904, "top": 0.3354, "width": 0.30257000000000006, "height": 0.26489}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 699825360, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 699835287, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 699835734, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 699913167, "boxes": [{"left": 0.41033771013627773, "top": 0.4937642992141649, "width": 0.11823584999502634, "height": 0.1334303193076693}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 699918805, "boxes": [{"left": 0.05943, "top": 0.14616, "width": 0.8713, "height": 0.6206}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 700754547, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 700771916, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 701316811, "boxes": [{"left": 0.4289202844311377, "top": 0.3831239031239031, "width": 0.09031156437125754, "height": 0.15552825552825555}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 701905446, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 703017343, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 703118156, "boxes": [{"left": 0.2401, "top": 0.16391, "width": 0.41072, "height": 0.6558}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 703940121, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 704856300, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 710012393, "boxes": [{"left": 0.11242, "top": 0.24086, "width": 0.80508, "height": 0.57253}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 717983299, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 718456561, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 718549229, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 719556643, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 721749080, "boxes": [{"left": 0.30234755794290263, "top": 0.2399221625385457, "width": 0.3427148612354521, "height": 0.5624067442554461}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 722514920, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 723697221, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 724128444, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 728163509, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 728211150, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 729569340, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 735408510, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 735985930, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 735986264, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 738686765, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 738741258, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 739910687, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 741144138, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 741349224, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 742942192, "boxes": [{"left": 0.00088, "top": 0.12624, "width": 0.83497, "height": 0.55534}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 743873984, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 744000458, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 744384277, "boxes": [{"left": 0.37606, "top": 0.33945, "width": 0.31659, "height": 0.33651000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 745358523, "boxes": [{"left": 0.23138, "top": 0.25665, "width": 0.52815, "height": 0.41638000000000003}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 745365940, "boxes": [{"left": 0.39961095514931805, "top": 0.19114940813687456, "width": 0.4909370233647959, "height": 0.565210633641699}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 745838022, "boxes": [{"left": 0.2608860404191617, "top": 0.3166167664670659, "width": 0.22128087574850297, "height": 0.2691367265469062}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 745964672, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 746613732, "boxes": [{"left": 0.362687125748503, "top": 0.32313705921490354, "width": 0.24077937874251504, "height": 0.4462574850299401}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 746615665, "boxes": [{"left": 0.25418704917942264, "top": 0.43731852912409835, "width": 0.24835041837574762, "height": 0.26485666191221185}, {"left": 0.39479889908112764, "top": 0.3783783783783784, "width": 0.26681933438347155, "height": 0.21598062468198065}], "status": "boxes", "source": "manual_correction"}
+{"photo_id": 746831904, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 749914345, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 753317463, "boxes": [{"left": 0.11195, "top": 0.01877, "width": 0.58766, "height": 0.36558999999999997}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 753317466, "boxes": [{"left": 0.06973, "top": 0.18495, "width": 0.53741, "height": 0.5275799999999999}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 753321564, "boxes": [{"left": 0.32143, "top": 0.4052, "width": 0.38775000000000004, "height": 0.22024999999999995}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 753324689, "boxes": [{"left": 0.04932, "top": 0.32988, "width": 0.70068, "height": 0.44898}], "status": "boxes", "source": "review_accepted"}
+{"photo_id": 754061063, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 754746771, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 754749123, "boxes": [], "status": "no_butterflies", "source": "manual_correction"}
+{"photo_id": 754759355, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 754936940, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 755324082, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 757644052, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 757648537, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 757649324, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 757990155, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 758838343, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 760457396, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 761023414, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 762754157, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 762755889, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
+{"photo_id": 763016877, "boxes": [], "status": "no_butterflies", "source": "review_accepted"}
